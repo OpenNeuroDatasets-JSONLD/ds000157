@@ -1,8 +1,8 @@
 {
     "diet_importance": {
-	"LongName": "Diet Importance",
-	"Description": "subject's self-rating of how important dieting is to them",
-	"Units": "1-5 scale, 5 being the highest"
+        "LongName": "Diet Importance",
+        "Description": "subject's self-rating of how important dieting is to them",
+        "Units": "1-5 scale, 5 being the highest"
     },
     "appetite_pre": {
         "LongName": "Pre-scan Appetite Rating (Hunger Covariate)",
